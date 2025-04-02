@@ -1,5 +1,5 @@
 //Moonlander. Um jogo de alunissagem.
-//Rafael Ortega (https://github.com/RafaelOrtegaa)
+//Gabriel Barros (https://github.com/GabrielBarros09)
 //28/03/2025
 //Versão 0.1.0
 
